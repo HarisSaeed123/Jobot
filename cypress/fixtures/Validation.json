@@ -1,0 +1,17 @@
+{
+    "emailFieldValidationMsg" : "Invalid Email Address",
+    "firstNameFieldValidationMsg" : "Please Provide The First Name",
+    "lastNameFieldValidationMsg" : "Please Provide The Last Name",
+    "existingEmailMsg" : "This email is already existed",
+    "validationMsgOnBlankSpaces" : "Please remove the blank spaces",
+    "zipCodeValidationMessage" : "Please provide valid Zipcode",
+    "zipCodeLessThanFiveCharactersValidation" : "The min length of ZipCode should be 5",
+    "zipCodeMoreThantenCharactersValidation" : "The max length of ZipCode should be 10",
+    "workPhoneFieldValidation" : "Please enter the phone number",
+    "companyFieldValidation" : "Please enter the company's name",
+    "companyWebsiteFieldValidation" : "Please enter the company's website",
+    "yourJobTitleFieldValidation" : "Please enter your job title",
+    "positionFieldValidation" : "Please enter your position",
+    "zipCodeFieldValidation" : "Please enter the ZipCode",
+    "hiringGoalsValidation" : "Please enter your hiring goals"
+}

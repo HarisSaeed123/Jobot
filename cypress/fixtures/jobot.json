@@ -1,0 +1,28 @@
+{
+    "emailId" : "test@gmail.com",
+    "invalidEmailId" : "test123@gmail",
+    "missingDomain": "test",
+    "missingSubDomain" : "test@gmail",
+    "emailValidationText" : "Email required",
+    "firstName" : "Test",
+    "lastName" : "123",
+    "phoneNumber" : "(123) 456 - 7890",
+    "invlidPhoneNumber" : "hk$&jkhgf%",
+    "company" : "Test Company",
+    "companyWebsite" : "www.test.com",
+    "jobTitle" : "Testing",
+    "accounting" : "Accounting",
+    "airlinesAviation" : "Airlines/Aviation",
+    "alternativeDisputeResolution" : "Alternative Dispute Resolution",
+    "alternativeMedicine" : "Alternative Medicine",
+    "animation" : "Animation",
+    "apparel&fashion" : "Apparel & Fashion",
+    "architecture&planning" : "Architecture & Planning",
+    "automotive" : "Automotive",
+    "aviation&aerospace" : "Aviation & Aerospace",
+    "Position" : "CEO",
+    "ZipCode" : 12345,
+    "invalidZipCode" : "asd$%&*",
+    "Text" : "text"
+    
+}

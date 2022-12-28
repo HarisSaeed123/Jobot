@@ -1,0 +1,18 @@
+{
+    "emailAddress" : "input[aria-label='Work Email Address']",
+    "emailValidationMessage" : ".q-field__messages",
+    "firstNameField" : "input[aria-label='First name']",
+    "lastNameField" : "input[aria-label='Last name']",
+    "phoneNumberField" : "input[aria-label='Work Phone']",
+    "companyField" : "input[aria-label='Company']",
+    "companyWebsiteField" : "input[aria-label='Company Website']",
+    "jobTitleField" : "input[aria-label='Your Job Title']",
+    "dropDownBtn" : ".jobot-fontawesome-fas-caret-down",
+    "industry" : "label.q-select",
+    "span" : "span",
+    "positionField" : "input[aria-label='Position(s)']",
+    "zipCodeField" : "input[aria-label='Zip code or location']",
+    "remotePosition" : ".q-toggle__inner",
+    "textArea" : "textarea[aria-label='Tell us how we can help you meet your hiring goals']",
+    "submitBtn" : "button[type='submit']"
+}
